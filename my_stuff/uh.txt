@@ -1,0 +1,5 @@
+wsl
+cd /mnt/c/Users/ballo/OneDrive/Документи/GitHub/gym-duckietown
+source ~/dt-sim/bin/activate
+cd my_stuff
+jupyter notebook --no-browser --ip=0.0.0.0
